@@ -1,6 +1,6 @@
 # Task Manager with Workflow Automation Engine Layer
 
-A full-stack automation platform built with **Bun, Hono, React (Vite), and PostgreSQL**. This application allows users to manage tasks and orchestrate dynamic, form-based structured branching workflows without writing code.
+A full-stack automation platform built with **Bun, Hono, React (Vite), and PostgreSQL(NeonDB)**. This application allows users to manage tasks and orchestrate dynamic, form-based structured branching workflows without writing code.
 
 ---
 
@@ -40,7 +40,6 @@ Log messaging supports template parsing. Syntaxes like `Critical task started: {
 ### Prerequisites
 
 - [Bun](https://bun.sh) installed globally.
-- PostgreSQL instance running locally on port `5432`.
 
 ### 1. Database Setup
 
