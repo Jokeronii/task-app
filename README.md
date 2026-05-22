@@ -47,6 +47,8 @@ Create a database named `task_automation` in your PostgreSQL instance.
 
 ### 2. Backend Installation
 
+ensure you have NeonDB account to get the connection string key and pass it to .env.example
+
 ```bash
 cd backend
 bun install
